@@ -4,7 +4,7 @@
 
 Hosted by GitHub
 
-A portfolio website that can be used to show your projects or other information. The site is live at [bramnuyts.github.io](https://bramnuyts.github.io/portfolio/)
+A portfolio website that can be used to show your projects or other information. The site is live at [bramnuyts.github.io](https://bramnuyts.github.io/Portfolio/)
 
 Here is a preview of the website.
 

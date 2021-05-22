@@ -1,6 +1,7 @@
 # Portfolio Website
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+![GitHub release (latest by date including pre-releases)](https://img.shields.io/badge/Version-0.1-blue)
 
 Hosted by GitHub
 
